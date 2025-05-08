@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurderBot1
-- 👀 I’m interested in coding for UE5 in C++ and python. I would also like to learn how to write AI programs in C++ or python
+- 👀 I’m interested in coding in C++ and python. I would also like to learn how to write AI programs in
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me email (murderbot1@outlook.com)
